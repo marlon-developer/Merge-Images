@@ -1,0 +1,12 @@
+
+Configuração PC
+
+8Gb de Ram
+processador I7 2.3GHz 4 Núcleos
+
+1 Thread: 2:51 segundos 
+2 Threads: 00:42 segundos
+4 Threads: 00:34 segundos
+8 Threads: 00:41 segundos 
+
+
